@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "JVin",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "JVin Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.MSOFT": {
+    "message": "MSOFT",
+    "description": "Navbar item with label MSOFT"
+  }
+}

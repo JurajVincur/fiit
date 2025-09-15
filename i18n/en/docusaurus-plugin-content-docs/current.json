@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Projekt": {
+    "message": "Project",
+    "description": "The label for category Projekt in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.O predmete": {
+    "message": "About",
+    "description": "The label for the doc item O predmete in sidebar tutorialSidebar, linking to the doc msoft/index"
+  },
+  "sidebar.tutorialSidebar.doc.Časť 1": {
+    "message": "Part 1",
+    "description": "The label for the doc item Časť 1 in sidebar tutorialSidebar, linking to the doc msoft/project/part1"
+  },
+  "sidebar.tutorialSidebar.doc.Časti 2-3": {
+    "message": "Parts 2-3",
+    "description": "The label for the doc item Časti 2-3 in sidebar tutorialSidebar, linking to the doc msoft/project/part23"
+  },
+  "sidebar.tutorialSidebar.doc.Časti 4-6": {
+    "message": "Parts 4-6",
+    "description": "The label for the doc item Časti 4-6 in sidebar tutorialSidebar, linking to the doc msoft/project/part46"
+  },
+  "sidebar.tutorialSidebar.doc.Harmonogram": {
+    "message": "Schedule",
+    "description": "The label for the doc item Harmonogram in sidebar tutorialSidebar, linking to the doc msoft/schedule"
+  }
+}
