@@ -70,9 +70,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'msoftSidebar',
             position: 'left',
             label: 'MSOFT',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'projectsSidebar',
+            position: 'left',
+            label: 'Projekty',
           },
           {
             type: 'localeDropdown',

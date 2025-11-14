@@ -15,7 +15,40 @@
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
 const sidebars = {
-  tutorialSidebar: [
+  projectsSidebar: [
+    {
+      type: 'doc',
+      id: 'projects/index',
+      label: 'Projekty'
+    },
+    {
+      type: 'category',
+      label: 'Projekt',
+      items: [
+        {
+          type: 'doc',
+          id: 'msoft/project/part1',
+          label: 'Časť 1'
+        },
+        {
+          type: 'doc',
+          id: 'msoft/project/part23',
+          label: 'Časti 2-3'
+        },
+        {
+          type: 'doc',
+          id: 'msoft/project/part46',
+          label: 'Časti 4-6'
+        }
+      ]
+    },
+    {
+      type: 'doc',
+      id: 'msoft/schedule',
+      label: 'Harmonogram'
+    }
+  ],
+  msoftSidebar: [
     {
       type: 'doc',
       id: 'msoft/index',
