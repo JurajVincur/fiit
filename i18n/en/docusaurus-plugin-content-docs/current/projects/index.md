@@ -11,6 +11,7 @@ title: Projects
 | Cubely - Live Programming in VR | [YouTube](https://www.youtube.com/watch?v=w5w1E6v8b5c) | – | [DOI](https://doi.org/10.1145/3139131.3141785) |
 | WastEd – Simple Game Teaching the Basics of Waste Sorting | [YouTube](https://www.youtube.com/watch?v=5z4vCuRCBAQ) | – | – |
 | Simple Game for Learning the Basics of Human Anatomy | [YouTube](https://www.youtube.com/watch?v=7mCeqtGX4dY) | – | – |
+| Patient Education (Diabetes Mellitus) | [YouTube](https://www.youtube.com/watch?v=hJTyNS5ne_w) | – | – |
 
 ## VR in Software Engineering
 

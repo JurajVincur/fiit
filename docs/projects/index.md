@@ -11,6 +11,7 @@ title: Projekty
 | Cubely - živé programovanie vo VR | [YouTube](https://www.youtube.com/watch?v=w5w1E6v8b5c) | – | [DOI](https://doi.org/10.1145/3139131.3141785) |
 | WastEd – jednoduchá hra na učenie základov triedenia odpadu | [YouTube](https://www.youtube.com/watch?v=5z4vCuRCBAQ) | – | – |
 | Jednoduchá hra na učenie základov ľudskej anatómie | [YouTube](https://www.youtube.com/watch?v=7mCeqtGX4dY) | – | – |
+| Vzdelávanie pacientov (diabetes mellitus) | [YouTube](https://www.youtube.com/watch?v=hJTyNS5ne_w) | – | – |
 
 ## VR v softvérovom inžinierstve
 
