@@ -94,8 +94,17 @@ const config = {
             items: [
               {
                 label: 'MSOFT',
-                to: '/docs/msoft/',
+                to: '/docs/msoft/'
               },
+            ],
+          },
+          {
+            title: 'Projekty',
+            items: [
+              {
+                label: 'Prehľad',
+                to: '/docs/projects/'
+              }
             ],
           },
           {

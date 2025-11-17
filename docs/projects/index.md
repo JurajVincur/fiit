@@ -1,64 +1,43 @@
 ---
-title: MSOFT | O predmete
+title: Projekty
 ---
 
-# MSOFT
+## VR vo vzdelávaní
 
-Vitaj na oficiálnej stránke predmetu **MSOFT**.
-Nájdeš tu všetky dôležité informácie o priebehu semestra, semestrálnom projekte a jednotlivých odovzdaniach.
+| Projekt | Video | Prezentácia | Publikácia |
+|---------|-------|------------|------------|
+| EVA - edukačný virtuálny asistent | [YouTube](https://www.youtube.com/watch?v=nzIrR9yPE88) | [Slides](https://docs.google.com/presentation/d/1Mo2dJPda8_WId4wMJm_UFSAkYjDBYQ5j/edit?usp=sharing&ouid=113922036213571396333&rtpof=true&sd=true) | – |
+| VR simulátor elektronických obvodov | [YouTube](https://www.youtube.com/watch?v=agtaqQhNkCI) | – | – |
+| Cubely - živé programovanie vo VR | [YouTube](https://www.youtube.com/watch?v=w5w1E6v8b5c) | – | [DOI](https://doi.org/10.1145/3139131.3141785) |
+| WastEd – jednoduchá hra na učenie základov triedenia odpadu | [YouTube](https://www.youtube.com/watch?v=5z4vCuRCBAQ) | – | – |
+| Jednoduchá hra na učenie základov ľudskej anatómie | [YouTube](https://www.youtube.com/watch?v=7mCeqtGX4dY) | – | – |
 
----
+## VR v softvérovom inžinierstve
 
-## Základné informácie
-- **Prednášajúci:** Ing. Juraj Vincúr, PhD.
-- **Cvičiaci:** Ing. Juraj Vincúr, PhD.; Ing. Lukáš Rucek
-- **Jazyk výučby:** slovenčina
+| Projekt | Video | Prezentácia | Publikácia / Repo |
+|---------|-------|------------|------------------|
+| Vizuálne programovanie prostredníctvom UML diagramu sekvencií | – | [Slides](https://docs.google.com/presentation/d/1c11pn_KzIn1IiuobKu_Li1HkRcV09IFAtQYi-ojKXHo/edit?usp=sharing) | [DOI](https://doi.org/10.1007/978-3-031-84460-7_14) |
+| Kolaboratívny vývoj softvéru | – | [Slides](https://docs.google.com/presentation/d/1-D2pVCUMBWu9kQu75uDGWRuyk5bJBfBYYsPso-hPTnc/edit?usp=sharing) | [DOI](https://doi.org/10.1007/978-3-031-62273-1_19) |
+| Živé programovanie prostredníctvom UML diagramu tried | [YouTube](https://youtu.be/7HCWL81w11k) | – | [DOI](https://doi.org/10.1109/VISSOFT55257.2022.00028), [GitHub](https://github.com/JakubKucecka/UML-based_VR_LiveProgrammingEnvironment) |
+| Analýza softvéru | [YouTube](https://youtu.be/qicXsw3Z230) | – | [DOI](https://doi.org/10.1109/QRS-C.2017.88), [GitHub](https://github.com/JurajVincur/VRCity)  |
 
----
+## Využitie AR technológií a sledovania pohľadu v asistenčných technológiách
 
-## Hodnotenie
-- **Projekt:** 70 b
-- **Skúška:** 30 b
-- **Bonus:** 5 b (vypracovanie dobrovoľných častí projektu)
-- **Stupnica:** štandardná
+| Projekt | Video | Prezentácia | Publikácia / Poznámky |
+|---------|-------|------------|----------------------|
+| iCHAIR - Eye-controlled Intelligent Chair for Augmented Reality–based Interaction and Rehabilitation | [YouTube](https://www.youtube.com/watch?v=sJfhl-ObgBI) | – | WIP, projekt je zameraný na ovládanie elektrického invalidného vozíka prostredníctvom pohľadu a AR rozhrania; podaný na ERC-2026-STG |
+| Robotické rameno ovládané prostredníctvom pohľadu | – | – | WIP, projekt bude integrovaný do projektu iCHAIR a umožní ťažko zdravotne postihnutým interagovať s okolím s cieľom zvýšiť úroveň ich samostatnosti |
+| Písanie prostredníctvom pohľadu a AR rozhrania | – | – | WIP, projekt bude integrovaný do projektu iCHAIR pre zabezpečenie efektívneho spôsobu komunikácie |
 
----
+## Získané Granty
 
-## Projekt
-Cieľom semestrálneho projektu je osvojiť si základné princípy návrhu softvéru podľa štandardných postupov.
-Študenti budú počas semestra postupne vypracúvať jednotlivé časti projektu a obhajovať ich na cvičeniach.
-
-### Hlavné časti
-1. Zámer projektu (**5 b**, textový opis)
-2. Prípady použitia (**15 b**, opis prípadov použitia, diagram prípadov použitia)
-3. Iniciálny model správania v UML (**8 b**, diagramy sekvencií, aktivít a kompozitnej štruktúry)
-4. Komponenty (**6 b**, diagram komponentov)
-5. Objekty, triedy a interakcia (**20 b**, diagramy tried, objektov, balíkov, sekvencií a stavové diagramy)
-6. Kód (**11 b**, prototyp GUI aplikácie, ľubovoľný programovací jazyk)
-> Kvalita práce na projekte (hodnotené počas cvičení) je hodnotená dodatočnými **5 b**.<br/>
-> Všetky modely musia byť realizované v **EA (verzia 17)**.
-
-### Odovzdania
-- **1. odovzdanie** Pred 3. cvičením, [časť 1](/docs/msoft/project/part1) (PDF)
-- **2. odovzdanie** Pred 7. cvičením, [časti 2–3](/docs/msoft/project/part23) (PDF + EA)
-- **3. odovzdanie** Pred 11. cvičením, [časti 4–6](/docs/msoft/project/part46) (EA + zip)
-> Všetky modely musia byť odovzdané ako **jeden EA projekt**.<br/>
-> Textové dokumenty sa odovzdávajú v **PDF**.<br/>
-> Implementácia sa odovzdáva v jednom **zip** archíve.<br/>
-> Všetky odovzdania sú realizované prostredníctvom **AIS**.
----
-
-## Cvičenia
-- [12 týždňov](/docs/msoft/schedule#termíny-cvičení), povinná účasť
-- Obsahuje prezentácie priebežných výstupov, konzultácie a individuálne obhajoby projektu
-
----
-
-## Materiály
-- [UML diagrams](https://www.uml-diagrams.org/)
-- [Cockburn – Use Case Book (draft)](https://kurzy.kpi.fei.tuke.sk/zsi/resources/CockburnBookDraft.pdf)
-- [Vranić - Modelovanie softvéru (PDF)](https://poetisania.com/val/pub/msoft.pdf)
-- [UML špecifikácia (OMG)](https://www.omg.org/spec/UML)
+| Rok  | Zdroj           | Názov projektu | Popis |
+|------|-----------------|----------------|-------|
+| 2025 | Nadácia Tatra banky | VERL - Virtual Environment for Robot Learning | Vytvorenie digitálneho dvojčaťa pre tréning robotického ramena. |
+| 2024 | Nadácia Tatra banky | iChair - Eye-controlled Intelligent Chair for Augmented Reality | Nákup elektrického vozíka na výskumné účely. |
+| 2019 | Nadácia EPH      | XR@3D Lab       | Zabezpečenie laboratórneho vybavenia (VR a AR technológií) |
+| 2017 | Nadácia Tatra banky | Teaching the basics of procedural programming in VR | Výučba základov procedurálneho programovania vo VR. |
+| 2015 | Nadácia Tatra banky | HoloBanking     | Vytvorenie prototypu VR/AR rozhrania na správu financií. |
 
 ---
 
