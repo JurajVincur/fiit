@@ -55,7 +55,7 @@ During the semester, students will gradually complete different parts of the pro
 ---
 
 ## Exercises
-- [12 weeks](/docs/msoft/schedule#termíny-cvičení), attendance is mandatory  
+- [12 weeks](/docs/msoft/schedule#exercise-dates), attendance is mandatory  
 - Include presentations of interim results, consultations, and individual project defenses  
 
 ---
